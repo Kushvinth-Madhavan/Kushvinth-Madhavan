@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi I’m @kushvinth-madhavan<br>I’m interested in machine learning , ai , VR & AR<br>data science and hackathons . I will start a startup on tech in the future<br>I’m currently learning python , swift and front end<br><br>Looking to collaborate on my interested topics and many others<br><br>You could contact me via email that is Kushvinth.m@gmail.com<br><br><br>
+Kushvinth Madhavan
+
+Tech Enthusiast | Aspiring Entrepreneur
+
+I’m passionate about Machine Learning, Artificial Intelligence, Virtual and Augmented Reality, Data Science, and Hackathons. Currently, I’m honing my skills in Python, Swift, and Front-End Development, with an eye toward launching my own tech startup in the future.
+
+I’m always excited to collaborate on projects that push the boundaries of technology and explore new ideas. Let’s work together on interesting topics in these fields or any other innovative areas.
+
+Feel free to reach out if you’d like to collaborate!
+
+Contact:
+📧 Email: Kushvinth.m@gmail.com
 
 
 ## 🌐 Socials:
